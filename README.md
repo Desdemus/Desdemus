@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Desdemus
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Francesco!
 - 🌱 I’m currently learning React.js and Next.js
 - 📫 How to reach me francescoaimperiale@gmail.com
 
