@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
-
+- 👋 Hi, I’m Francesco!
+- 🌱 I’m currently learning React.js and Next.js
+- 📫 How to reach me francescoaimperiale@gmail.com
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/francesco-imperiale-8980a5b1/) 
 
